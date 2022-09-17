@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/favourite.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.card{
+
+    opacity: 90%;
+}
+/*marvel heroes text*/
+.navbar-dark .navbar-brand{
+    color: red;
+}

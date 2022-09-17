@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/info.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    .card{
+
+        opacity: 75%;
+    }
+.navbar-dark .navbar-brand{
+    color: red;
+}
