@@ -149,8 +149,6 @@ function favourite(anchor) {
                     // change icon
                     favIcon.remove("fas");
                     favIcon.add("far");
-                    // alert message
-                    //window.alert(character.data.results[0].name + " has been removed from favourites");
                     popUpAlertUnFav();
                 } else {
                     window.alert("OOPS! Something went wrong!");
